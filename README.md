@@ -7,5 +7,5 @@
   - Bootstrap CSS
 - Back-End
   - Node.js
-  - Express.js (With JWT)
+  - Express.js
   - MongoDB (mongoose)
